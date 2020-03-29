@@ -1,13 +1,13 @@
 @font-face {
     font-family: HelveticaNeueCyr-Light;
     src: local("HelveticaNeueCyr-Light"),
-    url(../fonts/HelveticaNeueCyr-Light.otf);
+    url(../Fonts/HelveticaNeue-Light/HelveticaNeueCyr-Light.otf);
 }
 
 
 @font-face {
     font-family: Exo2-Medium;
     src: local("Exo2-Medium"),
-    url(../fonts/Exo2-Medium.otf);
+    url(../Fonts/Exo2Medium/Exo2-Medium.otf);
 }
 
