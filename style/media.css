@@ -1,0 +1,55 @@
+@media (max-width: 1112px)  {
+    .product__inner ul {
+     max-width: 665px;
+    }
+
+    .product__link{
+        justify-content: center;
+    }
+}
+
+@media (max-width: 724px){
+    .product__inner ul {
+        max-width: 330px;
+    }
+
+    .product__item{
+        display: block;
+    }
+
+    .item-text{
+        width: 140px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .product__link{
+        margin-top: 25px;
+    }
+
+    .product__link a:first-child{
+        margin: 0;
+    }
+}
+
+@media (max-width: 496px){
+    .product__link{
+        display: block;
+    }
+
+    .product__link div{
+        margin: 10px auto 0;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+

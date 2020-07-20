@@ -1,8 +1,13 @@
 @media (max-width: 1200px){
 
-    .product__inner{
-        width: 620px;
-        grid-template-columns: 300px 300px;
+    /*.product__inner{*/
+        /*width: 620px;*/
+    /*}*/
+}
+
+@media (max-width: 1064px){
+    .product__inner li {
+        flex-basis: calc(100% / 2 - 0px);
     }
 }
 
